@@ -1,0 +1,6 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background: linear-gradient(to right, #e3fda19d, #a67833b4);
+}
